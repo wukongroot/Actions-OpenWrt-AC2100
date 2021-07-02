@@ -4,7 +4,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
-Build OpenWrt using GitHub Actions
+Build OpenWrt using GitHub Actions For XiaoMi RedMi AC2100
 
 ## About SSH
 在Run Workflow时把SSH connection to Actions的值改为true（或者也可以不修改，而是通过 webhook 方式发送带有ssh触发关键词的请求。）
