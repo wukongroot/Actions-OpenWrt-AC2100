@@ -11,7 +11,7 @@ Build OpenWrt using GitHub Actions
 在触发工作流程后，在 Actions 日志页面等待执行到SSH connection to Actions步骤，会出现类似下面的信息：
 To connect to this session copy-n-paste the following into a terminal or browser:
 
-for example:
+For example:
 
 - ssh Y26QeagDtsPXp2mT6me5cnMRd@nyc1.tmate.io
 - https://tmate.io/t/Y26QeagDtsPXp2mT6me5cnMRd
